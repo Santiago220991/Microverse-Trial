@@ -1,16 +1,10 @@
-#main{
-display: flex;
-flex-direction: column;
-justify-content: center;
-
-}
-#image{
-    width: 50%;
-    height: auto;
-}
-#img-div{
-    display: flex;
-    flex-direction: row;
+body{
     width: 100%;
+    display: flex;
     justify-content: center;
+}
+
+#image{
+    width: 100%;
+    height: auto;
 }
